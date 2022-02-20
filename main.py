@@ -58,7 +58,7 @@ void loop()
 
   if (active == true)
   {
-    int chicken = 4;
+    int  = 4;
   }
   
   else if (active == false)
